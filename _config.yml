@@ -20,20 +20,20 @@ description: >-
   SQL, ডেটাবেস আর প্রোগ্রামিং নিয়ে সহজ বাংলায় আড্ডা
 
 # Fill in the protocol & hostname for your site.
-url: "https://your_github_username.github.io"
+url: "https://imtiazshoykat.github.io"
 
 github:
-  username: your_github_username
+  username: ImtiazShoykat
 
 twitter:
   username:
 
 social:
   name: ইমতিয়াজ সৈকত
-  email: your_email@example.com
+  email: imtiazshoykat@gmail.com
   fediverse_handle:
   links:
-    - https://github.com/your_github_username
+    - https://github.com/ImtiazShoykat
 
 # Site Verification Settings
 webmaster_verifications:
@@ -75,7 +75,7 @@ theme_mode: dual
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/imtiaz_shoykat.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 social_preview_image:
