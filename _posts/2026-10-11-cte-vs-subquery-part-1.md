@@ -27,15 +27,16 @@ CREATE TABLE trip_expenses
     trip_day     NUMBER,
     spent        NUMBER
 );
-```
+
+
 | Name | City | Trip Day | Total Spent |
-|------|----------|-----|-----|
-| **Harry** | New York | 1 | $200 |
-| **Johny** | New York | 2 | $190 |
-| **Nicholas** | Las Vegas | 1 | $190 |
-| **Bailey** | Las Vegas | 2 | $180 |
-| **Harry** | Las Vegas | 3 | $190 |
----
+|------|------|----------|-------------|
+| Harry | New York | 1 | $200 |
+| Johny | New York | 2 | $190 |
+| Nicholas | Las Vegas | 1 | $190 |
+| Bailey | Las Vegas | 2 | $180 |
+| Harry | Las Vegas | 3 | $190 |
+
 
 আর কুয়েরি লিখে বের করতে বললো, "কে এভারেজ এর চেয়ে বেশি খরচ করলো?"
 
