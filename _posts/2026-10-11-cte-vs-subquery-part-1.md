@@ -27,6 +27,7 @@ CREATE TABLE trip_expenses
     trip_day     NUMBER,
     spent        NUMBER
 );
+```
 
 
 | Name | City | Trip Day | Total Spent |
@@ -36,6 +37,7 @@ CREATE TABLE trip_expenses
 | Nicholas | Las Vegas | 1 | $190 |
 | Bailey | Las Vegas | 2 | $180 |
 | Harry | Las Vegas | 3 | $190 |
+
 
 
 আর কুয়েরি লিখে বের করতে বললো, "কে এভারেজ এর চেয়ে বেশি খরচ করলো?"
