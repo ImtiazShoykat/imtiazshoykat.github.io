@@ -157,4 +157,4 @@ WHERE spent > (
 
 ---
 
-👉 [পার্ট ১ পড়ুন](/sql-cte-vs-subquery/)
+👉 [পার্ট ১ পড়ুন](/_posts/2026-10-11-cte-vs-subquery-part-1.md)
