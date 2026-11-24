@@ -56,7 +56,7 @@ Oracle-এর `DBWn`-ও অনেকটা একইভাবে কাজ ক�
 
 `COMMIT WRITE IMMEDIATELY` (default) হলে COMMIT synchronously `LGWR`-এর redo write শেষ হওয়ার জন্য অপেক্ষা করে। এই অপেক্ষার নামই **`log file sync`**। আপনি `V$SESSION_EVENT`-এ এটা দেখতে পাবেন। যদি `log file sync` বেশি হয়, বুঝবেন আপনার redo disk-এ I/O bottleneck আছে।
 
-## মনে রাখার সারাংশ
+## মনে রাখার জন্য আরও সংক্ষেপ করে দিচ্ছি
 
 | Process | কখন লেখে | কোথায় | কেন |
 | :--- | :--- | :--- | :--- |
