@@ -1,3 +1,10 @@
+---
+title: "Oracle-এ COMMIT করলেই কি সাথে সাথেই Datafile-এ Data Write লেখা হয় না কেন?"
+date: 2026-11-24 12:25:00 +0600
+categories: [Oracle, Database, DBA]
+tags: [Oracle Database, DBA, dba-interview]
+---
+
 # Oracle-এ COMMIT করলেই কি সাথে সাথেই Datafile-এ Data Write হয়?
 
 Database-এ আপনি একটি টেবিলে ডাটা ইনসার্ট করে `COMMIT` দিলেন। মনে হচ্ছে ডাটা বুঝি সাথে সাথেই Datafile-এ সেভ হয়ে গেলো?
